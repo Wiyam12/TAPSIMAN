@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">1059323360544-u4rgsnl9fc248lrbotja9jdft9kq15li.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">1059323360544</string>
+    <string name="google_api_key" translatable="false">AIzaSyCALUjoMzOyyGT5UqzqechHh40p8u0KCII</string>
+    <string name="google_app_id" translatable="false">1:1059323360544:android:7b990be5f90b82b0cb5345</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCALUjoMzOyyGT5UqzqechHh40p8u0KCII</string>
+    <string name="google_storage_bucket" translatable="false">tapsiman-fff56.appspot.com</string>
+    <string name="project_id" translatable="false">tapsiman-fff56</string>
+</resources>

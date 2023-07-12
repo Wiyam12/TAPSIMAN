@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "1059323360544",
+    "project_id": "tapsiman-fff56",
+    "storage_bucket": "tapsiman-fff56.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059323360544:android:7b990be5f90b82b0cb5345",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059323360544-u4rgsnl9fc248lrbotja9jdft9kq15li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCALUjoMzOyyGT5UqzqechHh40p8u0KCII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059323360544-u4rgsnl9fc248lrbotja9jdft9kq15li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1059323360544:android:7b990be5f90b82b0cb5345",
+        "android_client_info": {
+          "package_name": "com.example.user"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1059323360544-u4rgsnl9fc248lrbotja9jdft9kq15li.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCALUjoMzOyyGT5UqzqechHh40p8u0KCII"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1059323360544-u4rgsnl9fc248lrbotja9jdft9kq15li.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
